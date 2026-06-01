@@ -51,3 +51,4 @@ Proyecto personal en desarrollo. Si tienes sugerencias sobre la estrategia de re
 ---
 
 *Desarrollado como parte del ecosistema de BETO Legal México.*
+![Logo del Proyecto][/featured.png]
