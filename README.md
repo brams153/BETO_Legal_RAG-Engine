@@ -1,10 +1,8 @@
-# BETO-Legal-RAG-Engine
-
 # BETO Legal RAG Engine
 
 [![Status](https://img.shields.io/badge/status-in_development-yellow.svg)]()
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
-
+--- 
 Este repositorio alberga el **motor de RAG (Retrieval-Augmented Generation)** diseñado específicamente para potenciar **BETO Legal México**. 
 
 El objetivo es mejorar la efectividad de las respuestas de BETO mediante la recuperación contextual precisa de documentos jurídicos mexicanos, reduciendo alucinaciones y aumentando la relevancia legal de las salidas.
